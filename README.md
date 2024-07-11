@@ -103,7 +103,7 @@ If you find this helpful or valuable, please consider 🌟 starring the reposito
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github.com/Tilak-Shetty.png" width="120px;" alt="Sahil Atahar"/>
+        <img src="https://avatars.githubusercontent.com/u/129574045?v=4" width="120px;" alt="Sahil Atahar"/>
         <br />
         <b>Vishu Patle</b>
       </td>
